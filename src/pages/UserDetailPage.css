@@ -1,0 +1,17 @@
+/* src/pages/UserDetailPage.css */
+.user-detail-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .user-detail-card {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
