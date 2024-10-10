@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import UserListPage from './pages/UserListPage';
-import './app.css'; // Import the global styles
+import './App.css'; // Import the global styles
 
 const App = () => {
   return (
